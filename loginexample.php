@@ -6,7 +6,7 @@ $is64bit=$_GET['is64bit']=='true'; //this is only needed if you return compiled 
 //check if the username and password match what is stored in some kind of database
 //for this example: user601 - whatever
 
-if (($username === "user601") && ($password === "whatever"))
+if (($username === "Aditya") && ($password === "Mathur"))
 {
 	if ($is64bit)
 	{
